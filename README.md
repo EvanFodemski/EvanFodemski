@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Bellwork
+Hello, I'm Evan, a junior fullstack developer looking to gain experience in the software development Industry. Take a Look at my Portfolio, where you can contact me and view the rest of my projects.
 
 
 ## 🌐 Socials:
